@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 #更换为中科大源。
 sed -i 's/debian.org/ustc.edu.cn/g' /etc/apt/sources.list
